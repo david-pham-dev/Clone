@@ -1,0 +1,144 @@
+{
+  "homeheader": {
+    "speciality": "Speciality",
+    "searchdoctor": "Find A Doctor By Speciality",
+    "health-facility": "Health Facility",
+    "select-facility": "Choose A Facility",
+    "doctor": "Doctor",
+    "choosedoctor": "Choose A Doctor",
+    "fee": "Package",
+    "checkhealth": "General Health Check",
+    "support": "Support",
+    "welcome": "Welcome"
+  },
+  "banner": {
+    "health-base": "Health Base",
+    "overall-healthcare": "Comprehensive HealthCare",
+    "speciality-check": "Speciality HealthCare",
+    "online-check": "Remote HealthCare",
+    "general-check": "General HealthCare",
+    "medical-test": "Medical HealthCare",
+    "mental-health": "Mental HealthCare",
+    "clinic": "Clinic HealthCare"
+  },
+  "common": {
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "decentralize": "Decentralize",
+    "close": "Close",
+    "save": "Save",
+    "refresh": "Refresh",
+    "accept": "Accept",
+    "confirm": "Confirm",
+    "confirm-this-task": "Are you sure to process this task?",
+    "fail-to-load-data": "Fail to load data",
+    "unknown-error": "There was an error",
+    "internal-server-error": "Internal server error",
+    "bad-request": "Bad request",
+    "forbiden-request": "Invalid input data",
+    "fail-to-load-all-code": "Fail to load data from allcode",
+    "sum": "Sum",
+    "date-range-invalid": "Date range invalid"
+  },
+  "login": {
+    "login": "Login",
+    "username": "Username",
+    "password": "Password",
+    "userpass-wrong": "Invalid username or password!"
+  },
+  "menu": {
+    "admin": {
+      "manage-user": "Users System",
+      "manage-doctor": "Manage Doctor",
+      "manage-admin": "Manage Admin",
+      "crud": "CRUD user",
+      "crud-redux": "Create New Doctor",
+      "clinic": "Clinics",
+      "create-clinic": "Create New Clinic",
+      "manage-clinic": "Manage Clinics",
+      "specialty": "Specialty",
+      "manage-specialty": "Manage specialties",
+      "handbook": "Handbook",
+      "manage-handbook": "Manage Handbook"
+    },
+    "doctor": {
+      "manage-schedule": "Manage Doctor's Schedule",
+      "manage-patient": "Manage Doctor's Patient"
+    }
+  },
+  "manage-user": {
+    "add": "Add New User",
+    "email": "Email",
+    "password": "Password",
+    "first-name": "First Name",
+    "last-name": "Last Name",
+    "address": "Address",
+    "phone-number": "Telephone",
+    "gender": "Gender",
+    "position": "Position",
+    "role": "Role",
+    "save": "Save User",
+    "image": "User Image",
+    "edit": "Edit User"
+  },
+  "homepage": {
+    "outstanding-doctor": "Outstanding Doctors",
+    "more-infor": "View More",
+    "specialty-popular": "Speciality"
+  },
+  "manage-schedule": {
+    "title": "Managing Schedule",
+    "choose-doctor": "Choose Doctor",
+    "choose-date": "Choose Date",
+    "save-infor": "Save"
+  },
+  "patient": {
+    "detail-doctor": {
+      "schedule": "Schedule",
+      "no-schedule": "No appointment available. Please select another day!",
+      "book": "Select ",
+      "free": " and Book (No Fees Applied)"
+    },
+    "extra-infor-doctor": {
+      "text-address": "Address",
+      "price": "Examination Price",
+      "view-detail": "View More",
+      "view-less": "View Less",
+      "payment-patient": "Payment Can Be Processed Via: "
+    },
+    "modal-booking": {
+      "price": "Examination Price: ",
+      "title": "Booking Information",
+      "phone-number": "Contact Number",
+      "name": "Full Name",
+      "email": "Email",
+      "address": "Address",
+      "reason": "Reason",
+      "birthday": "Date Of Birth",
+      "gender": "Gender",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    }
+  },
+  "admin": {
+    "manage-doctor": {
+      "title": "Create Doctor Information",
+      "select-doctor": "Choose Doctor",
+      "intro": "Introduction",
+      "add": "Add Information",
+      "save": " Save Information",
+      "price": "Price",
+      "payment": "Payment Method",
+      "province": "Province",
+      "clinic-name": "Clinic Name",
+      "clinic-address": "Clinic Address",
+      "note": "Note",
+      "specialty": "Speciality",
+      "select-clinic": "Select Clinic"
+    },
+    "manage-clinic": {
+      "create-clinic": "Add New Clinic"
+    }
+  }
+}
